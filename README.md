@@ -1,6 +1,6 @@
-# Re-analisis Kebocoran Data pada Prediksi Hepatitis
+# Preprocessing Order and Data Leakage in Hepatitis Prediction
 
-Paket replikasi untuk artikel **"Re-analisis Kebocoran Data pada Prediksi Hepatitis: Pemisahan Efek Imputasi, SMOTE, dan Seleksi Fitur pada Dataset UCI HCV dan UCI Hepatitis"**.
+Paket replikasi untuk artikel **"Preprocessing Order and Data Leakage in Hepatitis Prediction: A Re-analysis of Two UCI Datasets"**.
 
 > *English summary.* Replication package for a re-analysis of two public UCI hepatitis datasets (HCV data, n = 615; Hepatitis, n = 155). The notebook compares a leakage-free pipeline (all preprocessing fitted inside training folds) with four incorrect preprocessing orders (imputation, SMOTE, feature selection on the full data, and their combination), separates true leakage from test-set composition effects (V2 vs V2b), and tests paired differences with the corrected resampled t-test (Nadeau & Bengio, 2003) and Holm correction.
 
@@ -36,8 +36,8 @@ Paket replikasi untuk artikel **"Re-analisis Kebocoran Data pada Prediksi Hepati
 ## Cara menjalankan
 
 ```bash
-git clone <URL-repositori-ini>
-cd hepatitis-leakage-reanalysis
+git clone https://github.com/14220007/Hepatitis-Prediction-SMOTE-and-Feature-Selection-on-the-UCI-HCV-and-UCI-Hepatitis-Datasets.git
+cd Hepatitis-Prediction-SMOTE-and-Feature-Selection-on-the-UCI-HCV-and-UCI-Hepatitis-Datasets
 pip install -r requirements.txt
 jupyter notebook hepatitis_reanalisis.ipynb
 ```
@@ -58,4 +58,6 @@ Lingkungan saat eksperimen: Python 3.11.8, Windows 10/11, NumPy 1.26.4, pandas 2
 
 ## Sitasi
 
-Lihat `CITATION.cff`. DOI Zenodo akan ditambahkan setelah rilis pertama dibuat.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23263410.svg)](https://doi.org/10.5281/zenodo.23263410)
+
+Lihat `CITATION.cff`. DOI arsip Zenodo: https://doi.org/10.5281/zenodo.23263410

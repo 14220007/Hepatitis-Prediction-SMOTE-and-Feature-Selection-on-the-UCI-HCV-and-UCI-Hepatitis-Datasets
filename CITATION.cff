@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Jika Anda memakai kode atau hasil ini, mohon sitasi sebagai berikut."
-title: "Re-analisis Kebocoran Data pada Prediksi Hepatitis: paket replikasi (UCI HCV dan UCI Hepatitis)"
+title: "Preprocessing Order and Data Leakage in Hepatitis Prediction: A Re-analysis of Two UCI Datasets (replication package)"
 type: software
 authors:
   - family-names: Rumintarsih
@@ -8,8 +8,10 @@ authors:
     affiliation: "Universitas Nusa Mandiri"
 # Tambahkan penulis lain di sini dengan format yang sama.
 version: "1.0.0"
+doi: 10.5281/zenodo.23263410
 date-released: "2026-10-09"
 license: MIT
+repository-code: "https://github.com/14220007/Hepatitis-Prediction-SMOTE-and-Feature-Selection-on-the-UCI-HCV-and-UCI-Hepatitis-Datasets"
 keywords:
   - data leakage
   - SMOTE
