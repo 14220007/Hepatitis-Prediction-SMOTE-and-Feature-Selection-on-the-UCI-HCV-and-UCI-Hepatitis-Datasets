@@ -1,0 +1,22 @@
+{
+  "python": "3.11.8",
+  "os": "Windows-10-10.0.26200-SP0",
+  "tanggal_jalan": "2026-10-09",
+  "FAST_MODE": false,
+  "SEED": 42,
+  "N_SPLITS": 5,
+  "N_REPEATS": 10,
+  "INNER_FOLDS": 3,
+  "K_FEATURES": 8,
+  "N_TREES": 200,
+  "TANGGAL_AKSES_DATA": "tidak tersedia",
+  "versi_paket": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.1",
+    "scipy": "1.12.0",
+    "scikit-learn": "1.3.0",
+    "imbalanced-learn": "0.14.2",
+    "xgboost": "2.1.4",
+    "matplotlib": "3.8.0"
+  }
+}

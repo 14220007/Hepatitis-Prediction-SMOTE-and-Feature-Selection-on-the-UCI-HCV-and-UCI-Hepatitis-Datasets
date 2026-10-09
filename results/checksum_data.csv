@@ -1,0 +1,3 @@
+dataset,file,ukuran_byte,sha256,tanggal_akses
+HCV,data/hcv/hcvdat0.csv,46183,1b62c8453b7098b695c549b19cfe070458ce6b909f0e990b6cfce7ab3c44c273,2026-10-08
+Hepatitis,data/hepatitis/hepatitis.data,7545,9971f9d18abb4fc9dd6749eefb0f864b36fa7bdd59f54188c0b148a5c28214bc,2026-10-08

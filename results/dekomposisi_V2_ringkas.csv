@@ -1,0 +1,9 @@
+dataset,metrik,total (V2-P-C),kebocoran (V2b-P-C),komposisi uji (V2-V2b),porsi_kebocoran_%
+HCV,average_precision,0.165,0.073,0.092,44.07
+HCV,balanced_accuracy,0.061,0.058,0.003,95.287
+HCV,f1,0.183,0.068,0.116,36.953
+HCV,roc_auc,0.037,0.033,0.004,89.395
+Hepatitis,average_precision,0.303,0.06,0.243,19.755
+Hepatitis,balanced_accuracy,0.115,0.044,0.071,38.286
+Hepatitis,f1,0.298,0.056,0.242,18.716
+Hepatitis,roc_auc,0.101,0.048,0.054,47.138

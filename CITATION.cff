@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "Jika Anda memakai kode atau hasil ini, mohon sitasi sebagai berikut."
+title: "Re-analisis Kebocoran Data pada Prediksi Hepatitis: paket replikasi (UCI HCV dan UCI Hepatitis)"
+type: software
+authors:
+  - family-names: Rumintarsih
+    given-names: Ade
+    affiliation: "Universitas Nusa Mandiri"
+# Tambahkan penulis lain di sini dengan format yang sama.
+version: "1.0.0"
+date-released: "2026-10-09"
+license: MIT
+keywords:
+  - data leakage
+  - SMOTE
+  - cross-validation
+  - reproducibility
+  - hepatitis
+  - machine learning
+references:
+  - type: dataset
+    title: "HCV data"
+    authors:
+      - family-names: Lichtinghagen
+        given-names: Ralf
+      - family-names: Klawonn
+        given-names: Frank
+      - family-names: Hoffmann
+        given-names: Georg
+    year: 2020
+    doi: 10.24432/C5D612
+  - type: dataset
+    title: "Hepatitis"
+    authors:
+      - name: "UCI Machine Learning Repository"
+    year: 1983
+    doi: 10.24432/C5Q59J
