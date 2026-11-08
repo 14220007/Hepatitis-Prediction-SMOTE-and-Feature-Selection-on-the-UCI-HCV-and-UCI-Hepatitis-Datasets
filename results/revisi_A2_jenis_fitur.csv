@@ -1,0 +1,20 @@
+fitur,jenis,missing,median_seluruh_data,modus_seluruh_data,proporsi_nilai_2
+AGE,numerik,0,39.0,30.0,
+SEX,biner (1/2),0,1.0,1.0,0.103
+STEROID,biner (1/2),1,2.0,2.0,0.506
+ANTIVIRALS,biner (1/2),0,2.0,2.0,0.845
+FATIGUE,biner (1/2),1,1.0,1.0,0.351
+MALAISE,biner (1/2),1,2.0,2.0,0.604
+ANOREXIA,biner (1/2),1,2.0,2.0,0.792
+LIVER_BIG,biner (1/2),10,2.0,2.0,0.828
+LIVER_FIRM,biner (1/2),11,2.0,2.0,0.583
+SPLEEN_PALPABLE,biner (1/2),5,2.0,2.0,0.8
+SPIDERS,biner (1/2),5,2.0,2.0,0.66
+ASCITES,biner (1/2),5,2.0,2.0,0.867
+VARICES,biner (1/2),5,2.0,2.0,0.88
+BILIRUBIN,numerik,6,1.0,1.0,
+ALK_PHOSPHATE,numerik,29,85.0,85.0,
+SGOT,numerik,4,58.0,20.0,
+ALBUMIN,numerik,16,4.0,4.0,
+PROTIME,numerik,67,61.0,100.0,
+HISTOLOGY,biner (1/2),0,1.0,1.0,0.452

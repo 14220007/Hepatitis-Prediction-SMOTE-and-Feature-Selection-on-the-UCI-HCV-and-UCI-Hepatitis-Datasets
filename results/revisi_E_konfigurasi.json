@@ -1,0 +1,16 @@
+{
+  "pelaksana": "Ade",
+  "python": "3.11.8",
+  "tanggal_jalan": "2026-11-05",
+  "SEED": 42,
+  "N_REPEATS": 10,
+  "FAST_MODE": false,
+  "versi_paket": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.1",
+    "scipy": "1.12.0",
+    "scikit-learn": "1.9.1",
+    "imbalanced-learn": "0.14.2",
+    "xgboost": "2.1.4"
+  }
+}

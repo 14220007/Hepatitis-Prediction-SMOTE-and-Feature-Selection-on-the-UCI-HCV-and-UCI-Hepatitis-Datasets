@@ -1,0 +1,13 @@
+dataset,model,f1,average_precision,balanced_accuracy,roc_auc
+HCV,DT,0.004,0.027,-0.003,0.003
+HCV,GB,0.011,-0.0,0.001,-0.0
+HCV,KNN,0.023,0.007,0.003,0.001
+HCV,NB,-0.004,-0.0,-0.005,0.001
+HCV,RF,0.011,-0.001,0.001,-0.0
+HCV,XGB,0.012,0.0,0.001,-0.0
+Hepatitis,DT,-0.017,-0.03,-0.014,-0.022
+Hepatitis,GB,-0.023,-0.033,-0.017,-0.015
+Hepatitis,KNN,0.022,0.003,0.016,-0.009
+Hepatitis,NB,0.003,-0.003,-0.0,-0.0
+Hepatitis,RF,-0.005,-0.014,-0.008,-0.006
+Hepatitis,XGB,-0.021,-0.012,-0.018,-0.004

@@ -1,0 +1,7 @@
+dataset,prosedur,f1,average_precision,balanced_accuracy,roc_auc
+HCV,P-C,0.0,0.0,0.0,0.0
+HCV,V2b,0.0,0.0,0.0,0.0
+HCV,V3,0.0,0.0,0.0,0.0
+Hepatitis,P-C,0.0,0.0,0.0,0.0
+Hepatitis,V2b,0.0,0.0,0.0,0.0
+Hepatitis,V3,0.0,0.0,0.0,0.0

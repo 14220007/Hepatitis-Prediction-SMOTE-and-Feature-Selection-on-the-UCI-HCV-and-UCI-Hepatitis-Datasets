@@ -1,0 +1,9 @@
+dataset,metrik,V2b100_minus_PC,V2b80_minus_PC,V2b80_minus_V2b100,total_V2_minus_PC (utama),porsi_V2b100_%,porsi_V2b80_%
+HCV,average_precision,0.073,0.078,0.006,0.165,44.07,47.433
+HCV,balanced_accuracy,0.058,0.058,-0.0,0.061,95.287,94.986
+HCV,f1,0.068,0.077,0.009,0.183,36.953,42.04
+HCV,roc_auc,0.033,0.034,0.001,0.037,89.395,91.491
+Hepatitis,average_precision,0.06,0.045,-0.015,0.303,19.755,14.928
+Hepatitis,balanced_accuracy,0.044,0.037,-0.007,0.115,38.286,32.211
+Hepatitis,f1,0.056,0.049,-0.007,0.298,18.716,16.475
+Hepatitis,roc_auc,0.048,0.038,-0.009,0.101,47.138,37.836
